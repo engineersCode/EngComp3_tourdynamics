@@ -4,6 +4,10 @@ After the two foundation course modules, equipping you with the coding patterns 
 
 ## Module 3: Fly at change in systems
 
+
+* **Get a PDF version to print**: _Engineering Computations Module 3: Fly at change in systems._ figshare.
+ https://doi.org/10.6084/m9.figshare.5673526
+ 
 ### [Lesson 1](http://go.gwu.edu/engcomp3lesson1): Catch things in motion
 
 Working with images and videos in Python using `imageio`. Interactive Matplotlib figures in the notebook, and capturing mouse clicks on images for digitizing an object's position. Computing velocity and acceleration from position captures: a falling ball, and projectile motion. Computing numerical derivatives using differences. Free-fall acceleration from real data.
