@@ -1,10 +1,15 @@
-# Engineering Computations
+# Engineering Computations Module 3
 
 After the two foundation course modules, equipping you with the coding patterns for numerical computing, this module is our launching pad to investigate _change, motion_, and _dynamics_, using computational thinking.
 
 ## Module 3: Fly at change in systems
 
-Tackling the dynamics of change with computational thinking.
+_Tackling the dynamics of change with computational thinking._
+
+Get an interactive session in [MyBinder.org](https://mybinder.org/) with these course materials by clicking on the button below.
+Then navigate to `modules`, select one of the course modules, and lauch any notebook.
+
+ [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp3_flyatchange/master)
 
 * **Get a PDF version to print**: _Engineering Computations Module 3: Fly at change in systems._ figshare.
  https://doi.org/10.6084/m9.figshare.5673526
