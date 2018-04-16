@@ -4,6 +4,7 @@ After the two foundation course modules, equipping you with the coding patterns 
 
 ## Module 3: Fly at change in systems
 
+Tackling the dynamics of change with computational thinking.
 
 * **Get a PDF version to print**: _Engineering Computations Module 3: Fly at change in systems._ figshare.
  https://doi.org/10.6084/m9.figshare.5673526
