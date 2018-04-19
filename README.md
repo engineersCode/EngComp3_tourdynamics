@@ -10,10 +10,10 @@ After the two foundation course modules, equipping you with the coding patterns 
 
 _Tackling the dynamics of change with computational thinking._
 
-Get an interactive session in [MyBinder.org](https://mybinder.org/) with these course materials by clicking on the button below.
-Then navigate to `modules`, select one of the course modules, and lauch any notebook.
-
- [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp3_flyatchange/master)
+> Get an interactive session in [MyBinder.org](https://mybinder.org/) with these course materials by clicking on the button below.
+> Select the folder `notebooks_en` to access the five lessons of this course as fully executable Jupyter notebooks.
+>
+> [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp3_flyatchange/master)
 
 * **Get a PDF version to print**: _Engineering Computations Module 3: Fly at change in systems._ figshare.
  https://doi.org/10.6084/m9.figshare.5673526
