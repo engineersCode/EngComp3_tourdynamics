@@ -1,19 +1,19 @@
 # Engineering Computations Module 3
 
-_Engineering Computations_ is an online course made up of a set of stackable learning modules, so that it can be flexible for adoption in different situations.
+_Engineering Computations_ is a set of stackable learning modules, that can be flexible for adoption in different situations.
 It aims to develop computational skills for students in engineering, but it can also be used by students in other science majors.
 The course uses the Python programming language and the Jupyter open-source tools for interactive computing.
 
-After the two foundation course modules, equipping you with the coding patterns for numerical computing, this module is our launching pad to investigate _change, motion_, and _dynamics_, using computational thinking.
+After the two foundation course modules, equipping you with the coding patterns for numerical computing, this module is our launching pad to investigate _the dynamics of change and motion_ using computational thinking.
 
-## Module 3: Fly at change in systems
+## Module 3: Tour the dynamics of change and motion
 
 _Tackling the dynamics of change with computational thinking._
 
 > Get an interactive session in [MyBinder.org](https://mybinder.org/) with these course materials by clicking on the button below.
 > Select the folder `notebooks_en` to access the five lessons of this course as fully executable Jupyter notebooks.
 >
-> [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp3_flyatchange/master)
+> [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp3_tourdynamics/master)
 
 * **Get a PDF version to print**: _Engineering Computations Module 3: Fly at change in systems._ figshare.
  https://doi.org/10.6084/m9.figshare.5673526
