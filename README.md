@@ -1,6 +1,6 @@
 # Engineering Computations Module 3
 
-_Engineering Computations_ is a set of stackable learning modules, that can be flexible for adoption in different situations.
+_Engineering Computations_ is a collection of stackable learning modules, flexible for adoption in different situations.
 It aims to develop computational skills for students in engineering, but it can also be used by students in other science majors.
 The course uses the Python programming language and the Jupyter open-source tools for interactive computing.
 
@@ -15,6 +15,7 @@ _Tackling the dynamics of change with computational thinking._
 >
 > [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp3_tourdynamics/master)
 
+* **Join the [open online course](http://go.gwu.edu/engcomp3)** on our _Open edX_ platform
 * **Get a PDF version to print**: _Engineering Computations Module 3: Fly at change in systems._ figshare.
  https://doi.org/10.6084/m9.figshare.5673526
  
