@@ -1,6 +1,6 @@
-imageio==2.2.0
+imageio
+imageio-ffmpeg
 matplotlib==2.0.2
 numpy==1.15.1
 pandas==0.20.3
 urllib3==1.22
-ffmpeg
