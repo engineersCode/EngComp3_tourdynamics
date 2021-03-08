@@ -10,10 +10,12 @@ After the two foundation course modules, equipping you with the coding patterns 
 
 _Tackling the dynamics of change with computational thinking._
 
+**Pre-requisite: learning module [*EngComp 1](https://github.com/engineersCode/EngComp1_offtheground) of our collection.**
+
 > Get an interactive session in [MyBinder.org](https://mybinder.org/) with these course materials by clicking on the button below.
 > Select the folder `notebooks_en` to access the five lessons of this course as fully executable Jupyter notebooks.
 >
-> [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp3_tourdynamics/master)
+> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp3_tourdynamics/master)
 
 * **Join the [open online course](http://go.gwu.edu/engcomp3)** on our _Open edX_ platform
 * **Get a PDF version to print**: _Engineering Computations Module 3: Fly at change in systems._ figshare.
